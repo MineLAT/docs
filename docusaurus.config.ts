@@ -154,6 +154,10 @@ const config: Config = {
               label: 'Sistema de afiliados',
               href: 'https://minelatino.com/partner/',
             },
+            {
+              label: 'Descargo de responsabilidad',
+              to: 'disclaimer',
+            },
           ],
         },
         {

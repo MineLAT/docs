@@ -16,7 +16,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/config-logo.svg').default,
     description: (
       <>
-        Entre algunas otras básicas, la configuración de un servidor es parte
+        Entre algunas cosas básicas, la configuración de un servidor es parte
         importante para saber mantener una modalidad debido a que es el mínimo
         requisito para cualquier entusiasta de servidores de Minecraft.
       </>

@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: Construcción
+title: Inicio
 description: Documentación sobre distintos aspectos sobre construcción en Minecraft.
 ---
 

@@ -1,5 +1,5 @@
 ---
-slug: /info/data/types
+slug: /tutorial/data/types
 title: Tipos de datos
 description: Información sobre los tipos de datos básicos a tratar
 ---
